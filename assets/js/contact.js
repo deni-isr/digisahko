@@ -1,7 +1,3 @@
-/**
- * Digisähkö - Yhteystiedot Form AJAX
- */
-
 jQuery(document).ready(function($) {
     $('#yhteystiedot-form').on('submit', function(e) {
         e.preventDefault();
